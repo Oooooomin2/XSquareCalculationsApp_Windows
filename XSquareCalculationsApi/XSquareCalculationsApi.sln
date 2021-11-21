@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSquareCalculationsApi", "XSquareCalculationsApi\XSquareCalculationsApi.csproj", "{2C4375A6-9B61-44DC-85D9-0EE7AC8C3540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSquareCalculationsApi.Tests", "XSquareCalculationsApi.Tests\XSquareCalculationsApi.Tests.csproj", "{2E294E48-1C9D-4BF6-950A-CC1E79F4D0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4375A6-9B61-44DC-85D9-0EE7AC8C3540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4375A6-9B61-44DC-85D9-0EE7AC8C3540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4375A6-9B61-44DC-85D9-0EE7AC8C3540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4375A6-9B61-44DC-85D9-0EE7AC8C3540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E294E48-1C9D-4BF6-950A-CC1E79F4D0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E294E48-1C9D-4BF6-950A-CC1E79F4D0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E294E48-1C9D-4BF6-950A-CC1E79F4D0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E294E48-1C9D-4BF6-950A-CC1E79F4D0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2FFC9F-0D1F-461C-A9A8-33B8ECED1EAF}
+	EndGlobalSection
+EndGlobal
